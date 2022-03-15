@@ -13,5 +13,5 @@ nav_order: 3
   <ul id="search-results" class="search-results"></ul>
 </div>
 <script src="/assets/js/search-content.js"></script>
-<script src="/assets/js/lunr.js"></script>
+<script src="/assets/js/vendor/lunr.min.js"></script>
 <script src="/assets/js/search.js"></script>

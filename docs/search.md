@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: default
 title: search
 nav_order: 2
 ---
